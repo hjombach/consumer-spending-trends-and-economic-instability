@@ -1,4 +1,4 @@
-# consumer-spending-trends-and-economic-instability
+## Consumer Spending Trends and Economica Instability: A Time Series Analysis
 Capstone Project 1 for DS 5500
 
 Sushant Jha, Ved Vyas, Hendrik Ombach
